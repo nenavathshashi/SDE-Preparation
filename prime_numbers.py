@@ -1,5 +1,6 @@
 import math
 class prime:
+	#time complexity of finding a whether the given number is prime or not is O(sqrt(n))
 	def __init__(self,n):
 		self.n=n
 		# print(n)
